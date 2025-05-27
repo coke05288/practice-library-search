@@ -1,5 +1,5 @@
 # 프로젝트
-- Practice Library Search API
+- 인프런 서버개발자 과제전형 완벽가이드 기반 도서 검색 API
 
 # 기능 요구사항
 - 도서 검색 기능
